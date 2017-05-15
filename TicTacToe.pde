@@ -48,7 +48,6 @@ void placeO(int x, int y) {
 }
 
 void clearGrid() {
-
   /* 
    * USER STORY
    * After squares are filled with Xs and Os,
